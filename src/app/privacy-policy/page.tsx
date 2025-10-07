@@ -8,7 +8,7 @@ export default function PrivacyPolicy() {
         <div className="max-w-4xl mx-auto px-4 py-10 text-gray-800">
             <h1 className="text-3xl font-bold mb-6">Privacy Policy</h1>
             <p className="mb-6">
-                Sofzone {"(\"we\", \"our\", or \"us\")"} respects your privacy and is committed to
+                FoneSop {"(\"we\", \"our\", or \"us\")"} respects your privacy and is committed to
                 protecting the personal information you share with us. This Privacy
                 Policy explains how we collect, use, disclose, and safeguard your
                 information when you use our Point-of-Sale (POS) systems, websites, and
@@ -99,7 +99,7 @@ export default function PrivacyPolicy() {
                 <li>Object to data processing</li>
                 <li>Opt-out of marketing communications</li>
             </ul>
-            <p className="mt-2">To exercise these rights, please contact us at <strong>[Your Contact Email]</strong>.</p>
+            <p className="mt-2">To exercise these rights, please contact us at <strong>info.bsbtech@gmail.com</strong>.</p>
 
             <h2 className="text-2xl font-semibold mt-8 mb-4">7. Cookies and Tracking</h2>
             <p className="mb-2">
@@ -125,7 +125,7 @@ export default function PrivacyPolicy() {
                 If you have any questions or concerns about this Privacy Policy or our
                 practices, contact us at:
             </p>
-            <p className="font-semibold">Sofzone</p>
+            <p className="font-semibold">FoneSop</p>
             <p>info.bsbtech@gmail.com</p>
         </div>
     );

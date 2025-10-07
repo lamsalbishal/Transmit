@@ -5,9 +5,9 @@ export default function Home() {
     <div className="min-h-screen flex flex-col items-center justify-between bg-gradient-to-br from-gray-900 via-gray-800 to-black text-white font-sans">
       {/* Header / Logo */}
       <header className="pt-10 flex flex-col items-center gap-4">
-        
+
         <h1 className="text-4xl sm:text-5xl font-extrabold tracking-tight bg-gradient-to-r from-blue-400 to-purple-500 bg-clip-text text-transparent">
-          SofZone
+          FoneSop
         </h1>
       </header>
 

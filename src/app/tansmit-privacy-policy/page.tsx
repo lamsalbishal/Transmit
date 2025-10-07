@@ -1,7 +1,7 @@
 // app/privacy-policy/page.tsx (Next.js App Router)
 import React from "react";
 
-export default function NepoPrivacyPolicy() {
+export default function TransmitPrivacyPolicy() {
   return (
     <main className="min-h-screen bg-gray-100 text-gray-800">
       <div className="max-w-3xl mx-auto bg-white p-6 sm:p-10">
@@ -63,7 +63,7 @@ export default function NepoPrivacyPolicy() {
             <li>Disable notifications in your device settings.</li>
             <li>
               Request account or data deletion by emailing:{" "}
-              <strong>support@nepovoice.app</strong>
+              <strong>support@transmit.app</strong>
             </li>
           </ul>
         </Section>
@@ -81,9 +81,9 @@ export default function NepoPrivacyPolicy() {
 
         <Section title="✉️ 9. Contact">
           <p className="mt-2">
-            Email: <strong>devpariwartan@nepovoice.app</strong>
+            Email: <strong>info@transmit.app</strong>
             <br />
-            Company: NepoVoice Pvt. Ltd.
+            Company: Transmit Pvt. Ltd.
             <br />
             Location: Kathmandu, Nepal
           </p>
